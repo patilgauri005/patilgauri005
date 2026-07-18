@@ -12,14 +12,6 @@
 
 </div>
 
-<br/>
-
-## 🧭 About
-
-B.Tech CSE (Data Science) student at D Y Patil International University, Pune. I work at the point where **NLP research** meets **data analysis** — turning unstructured text or messy datasets into something a system, or a stakeholder, can actually use. Currently deep in a research internship building a QA engine from scratch, and building out **Power BI / SQL** skills for analyst roles.
-
-<br/>
-
 ## ⚙️ Stack
 
 <p align="center">

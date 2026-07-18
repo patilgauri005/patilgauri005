@@ -1,128 +1,113 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Gauri+Patil;Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Gauri+Patil;I+turn+raw+data+into+readable+answers;Currently+building+an+NLP+QA+engine+for+DBMS;Now+exploring+the+Data+Analyst+path" alt="Typing SVG" />
+<br/>
 
-### Where messy data becomes a clear answer — through code, models, and dashboards.
+<img src="https://komarev.com/ghpvc/?username=patilgauri005&style=for-the-badge&color=6C63FF" />
+<img src="https://img.shields.io/github/followers/patilgauri005?style=for-the-badge&color=6C63FF" />
+<img src="https://img.shields.io/github/stars/patilgauri005?style=for-the-badge&color=6C63FF" />
 
 </div>
 
-<br>
+<br/>
 
-## About
+## 🧭 About
 
-I'm a B.Tech Computer Science (Data Science) student at D Y Patil International University, Pune. Most of my work sits at the intersection of **NLP research** and **data analysis** — I like taking something unstructured (a paragraph, a spreadsheet, a messy dataset) and turning it into something a system, or a stakeholder, can actually use.
+B.Tech CSE (Data Science) student at D Y Patil International University, Pune. I work at the point where **NLP research** meets **data analysis** — turning unstructured text or messy datasets into something a system, or a stakeholder, can actually use. Currently deep in a research internship building a QA engine from scratch, and building out **Power BI / SQL** skills for analyst roles.
 
-Right now that shows up in two places: a research internship building a question-answering system from scratch, and a growing focus on **data analytics and Power BI** as I move toward analyst roles.
+<br/>
 
-<br>
+## ⚙️ Stack
 
-## Currently Building
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,sklearn,flask,git,github,vscode&perline=8" />
+</p>
 
-**Intelligent Question Answering System for Subjective DBMS Examinations**
-A closed-domain NLP system that reads a DBMS question and retrieves the most relevant answer from a curated knowledge base — no LLM API, no external calls, just retrieval logic built from the ground up.
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-- Knowledge base of 350+ curated DBMS questions across 14 units and 100+ topic blocks
-- Three-layer retrieval pipeline: Jaccard heading match → TF-IDF cosine similarity → sentence-level fallback
-- Text preprocessing with lemmatization via NLTK and TextBlob
-- Served through a Flask API, with a Tkinter GUI for fully offline use
+<br/>
 
-What I keep relearning from this project: retrieval quality lives or dies on preprocessing, and "good enough" similarity scoring is a much harder problem than it looks from the outside.
-
-<br>
-
-## Also Exploring: Data Analytics
-
-Alongside the research work, I've been building analyst-facing skills — cleaning data, modeling it, and telling a story with it instead of just predicting with it.
-
-- **Power BI** — data modeling, DAX measures, interactive dashboards
-- **SQL** — querying and shaping relational data for reporting
-- **Excel** — pivot tables and quick exploratory analysis
-- **Python (Pandas)** — data cleaning and EDA before it hits a dashboard
-
-<br>
-
-## Tech Stack
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-
-**Data, ML & Analytics**
-<br>
-<img src="https://skillicons.dev/icons?i=py,sklearn,mysql" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-**Web Development**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-<br>
-
-## Featured Projects
+## 🚀 Featured Builds
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔎 DBMS QA System**
-NLP-based question answering engine for subjective DBMS exam prep, using TF-IDF + Jaccard retrieval with an offline Flask/Tkinter interface.
-<br>`Python` `NLTK` `Flask` `TF-IDF`
+### 🧠 DBMS QA System
+Closed-domain NLP question-answering engine for subjective DBMS exams — 350+ curated questions across 14 units, retrieved through a three-layer pipeline: Jaccard heading match → TF-IDF cosine similarity → sentence-level fallback. Served via Flask API with an offline Tkinter GUI.
+
+`Python` `NLTK` `TextBlob` `Flask` `TF-IDF` `Tkinter`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🩺 Diabetes Prediction Model**
-ML model that predicts diabetes risk from patient health indicators, with a focus on feature selection and model evaluation.
-<br>`Python` `Scikit-learn` `Pandas`
+### 🩺 Diabetes Prediction Model
+Classifier that predicts diabetes risk from patient health indicators, with emphasis on feature selection and comparing model evaluation metrics.
+
+`Python` `Scikit-learn` `Pandas` `Matplotlib`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎬 Netflix Genre Classification**
-Classifies Netflix titles by genre from metadata, comparing model performance across classification approaches.
-<br>`Python` `Scikit-learn` `EDA`
+### 🎬 Netflix Genre Classification
+Genre classification model built on Netflix title metadata, comparing classifier performance after exploratory data analysis.
+
+`Python` `Scikit-learn` `EDA`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛍️ Web Ginnie Shop**
-Full-stack e-commerce application with product catalog, cart, and order flow, built end-to-end on the MERN stack.
-<br>`MongoDB` `Express` `React` `Node.js`
+### 🛍️ Web Ginnie Shop
+Full-stack e-commerce app with product catalog, cart, and order flow — built end-to-end on the MERN stack.
+
+`MongoDB` `Express` `React` `Node.js`
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=patilgauri005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgauri005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patilgauri005&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgauri005&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<br/>
+
+## 🔗 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/patilgauri005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patilgauri005&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgauri005&layout=compact&hide_border=true" width="42%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patilgauri005&hide_border=true" width="60%" />
-
-</div>
-
-<br>
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/patilgauri005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+```python
+while learning:
+    read_data()
+    build_model()
+    find_the_pattern()
+```
 
 </div>

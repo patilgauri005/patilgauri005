@@ -6,10 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=patilgauri005&style=for-the-badge&color=6C63FF" />
-<img src="https://img.shields.io/github/followers/patilgauri005?style=for-the-badge&color=6C63FF" />
-<img src="https://img.shields.io/github/stars/patilgauri005?style=for-the-badge&color=6C63FF" />
-
 </div>
 
 ## ⚙️ Stack

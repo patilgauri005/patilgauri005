@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="55" />
+<img src="./robot-wave.svg" width="140" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Gauri+Patil;Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 

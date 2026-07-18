@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./robot-fistbump.svg" width="140" />
+<video src="./robot-fistbump.mp4" width="300" autoplay loop muted playsinline></video>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Gauri+Patil;Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 

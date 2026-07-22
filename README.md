@@ -4,7 +4,7 @@
 
 # Hey 👋, I'm Gauri Patil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 - 🎓 Data Science student, currently deep in **NLP & applied ML**
 - 📊 Focused on **Data Analysis, Visualization & Predictive Modeling**
-- 🧠 Built a closed-domain **NLP QA engine** for DBMS exam prep — TF-IDF + Jaccard + Flask
+- 🧠 Built a closed-domain **NLP QA engine** for DBMS exam prep — TF-IDF + Jaccard + GUI
 - 🩺 Explored **classification problems** (diabetes risk, Netflix genres)
 - 🛍️ Also comfortable full-stack — shipped an e-commerce app on the **MERN stack**
 - 🚀 Currently sharpening SQL, Power BI & real-world dashboarding skills

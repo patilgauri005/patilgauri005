@@ -2,11 +2,39 @@
 
 <img src="./robot-fistbump.gif" width="300" />
 
-# Gauri Patil
+# Hey 👋, I'm Gauri Patil
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 
 </div>
+
+<br/>
+
+## 📌 About Me
+
+- 🎓 Data Science student, currently deep in **NLP & applied ML**
+- 📊 Focused on **Data Analysis, Visualization & Predictive Modeling**
+- 🧠 Built a closed-domain **NLP QA engine** for DBMS exam prep — TF-IDF + Jaccard + Flask
+- 🩺 Explored **classification problems** (diabetes risk, Netflix genres)
+- 🛍️ Also comfortable full-stack — shipped an e-commerce app on the **MERN stack**
+- 🚀 Currently sharpening SQL, Power BI & real-world dashboarding skills
+
+<br/>
+
+## 🧰 Skills Toolkit
+
+- 🐍 **Python for Data Science**
+  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- 🗣️ **NLP**
+  - NLTK, TextBlob, TF-IDF, Cosine Similarity
+- 📊 **Data Analysis & Visualization**
+  - Power BI, Excel, EDA, Data Cleaning & Storytelling
+- 🗄️ **Databases**
+  - MySQL, MongoDB, SQL
+- 🌐 **Web Development**
+  - Flask, React, Node.js, Express
+- 🛠️ **Tools**
+  - Git, GitHub, VS Code, Tkinter
 
 <br/>
 

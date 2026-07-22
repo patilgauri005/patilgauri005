@@ -1,140 +1,74 @@
 <div align="center">
 
-<img src="./robot-fistbump.gif" width="300" />
+<img src="./robot-fistbump.gif" width="220" />
 
-# Hey 👋, I'm Gauri Patil
+# Gauri Patil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 
 </div>
 
 <br/>
 
-## 📌 About Me
+## About
 
-- 🎓 Data Science student, currently deep in **NLP & applied ML**
-- 📊 Focused on **Data Analysis, Visualization & Predictive Modeling**
-- 🧠 Built a closed-domain **NLP QA engine** for DBMS exam prep — TF-IDF + Jaccard + Flask
-- 🩺 Explored **classification problems** (diabetes risk, Netflix genres)
-- 🛍️ Also comfortable full-stack — shipped an e-commerce app on the **MERN stack**
-- 🚀 Currently sharpening SQL, Power BI & real-world dashboarding skills
+Data Science student focused on NLP and applied ML. Built a closed-domain QA engine for DBMS exam prep, explored classification problems (diabetes risk, Netflix genres), and shipped a full MERN e-commerce app. Currently sharpening SQL and Power BI for data analyst work.
+
+**Toolkit:** Python (Pandas, NumPy, Scikit-learn) · NLP (NLTK, TF-IDF) · SQL & MongoDB · Power BI & Excel · Flask, React, Node.js · Git & VS Code
 
 <br/>
 
-## 🧰 Skills Toolkit
-
-- 🐍 **Python for Data Science**
-  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- 🗣️ **NLP**
-  - NLTK, TextBlob, TF-IDF, Cosine Similarity
-- 📊 **Data Analysis & Visualization**
-  - Power BI, Excel, EDA, Data Cleaning & Storytelling
-- 🗄️ **Databases**
-  - MySQL, MongoDB, SQL
-- 🌐 **Web Development**
-  - Flask, React, Node.js, Express
-- 🛠️ **Tools**
-  - Git, GitHub, VS Code, Tkinter
-
-<br/>
-
-## ⚙️ Stack
+## Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mongodb,java,javascript,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Analyst-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analyst-000000?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 <br/>
 
-## 🚀 Featured Builds
+## Featured Builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 DBMS QA System
-Closed-domain NLP question-answering engine for subjective DBMS exams — 350+ curated questions across 14 units, retrieved through a three-layer pipeline: Jaccard heading match → TF-IDF cosine similarity → sentence-level fallback. Served via Flask API with an offline Tkinter GUI.
-
-`Python` `NLTK` `TextBlob` `Flask` `TF-IDF` `Tkinter`
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 Diabetes Prediction Model
-Classifier that predicts diabetes risk from patient health indicators, with emphasis on feature selection and comparing model evaluation metrics.
-
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Netflix Genre Classification
-Genre classification model built on Netflix title metadata, comparing classifier performance after exploratory data analysis.
-
-`Python` `Scikit-learn` `EDA`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Web Ginnie Shop
-Full-stack e-commerce app with product catalog, cart, and order flow — built end-to-end on the MERN stack.
-
-`MongoDB` `Express` `React` `Node.js`
-
-</td>
-</tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| **DBMS QA System** | NLP QA engine for subjective exam prep — 350+ questions, three-layer retrieval (Jaccard → TF-IDF → sentence fallback), Flask API + Tkinter GUI | `Python` `NLTK` `Flask` `TF-IDF` |
+| **Diabetes Prediction** | Classifier predicting diabetes risk from health indicators, with feature selection and metric comparison | `Scikit-learn` `Pandas` `Matplotlib` |
+| **Netflix Genre Classification** | Genre classifier built on Netflix title metadata after EDA | `Python` `Scikit-learn` `EDA` |
+| **Web Ginnie Shop** | Full-stack e-commerce app — catalog, cart, order flow | `MongoDB` `Express` `React` `Node.js` |
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=patilgauri005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgauri005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=patilgauri005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilgauri005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilgauri005&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilgauri005&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
-</p>
-
 <br/>
 
-## 🔗 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/patilgauri005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+---
 
 <div align="center">
 
-```python
-while learning:
-    read_data()
-    build_model()
-    find_the_pattern()
-```
+*Currently exploring: SQL deep-dives, Power BI dashboards, and better ways to make data tell a story.*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/patilgauri005)
 
 </div>

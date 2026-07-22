@@ -1,22 +1,33 @@
+<div align="center">
+
 <img src="./robot-fistbump.gif" width="300" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Gauri+Patil;Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
+# Gauri Patil
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Data+Science+%2B+NLP+%C2%B7+Aspiring+Data+Analyst;Building+an+NLP+QA+engine+for+DBMS+exams;Python+%C2%B7+Flask+%C2%B7+Power+BI+%C2%B7+SQL" alt="Typing Animation"/>
 
 </div>
+
+<br/>
 
 ## ⚙️ Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,mysql,sklearn,flask,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,mongodb,java,javascript,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analyst-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 <br/>
